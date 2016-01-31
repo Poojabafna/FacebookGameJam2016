@@ -1,0 +1,7 @@
+C:\Users\Pooja\FacebookGame\Space\Temp\UnityVS_obj\Debug\Space.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Pooja\FacebookGame\Space\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Pooja\FacebookGame\Space\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Pooja\FacebookGame\Space\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Pooja\FacebookGame\Space\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Pooja\FacebookGame\Space\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\Pooja\FacebookGame\Space\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
